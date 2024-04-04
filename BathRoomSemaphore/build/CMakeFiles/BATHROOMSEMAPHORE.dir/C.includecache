@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/bathroom.h
+semaphore.h
+-
+
+/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/main.c
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+bathroom.h
+/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/bathroom.h
+

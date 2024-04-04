@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/build",
+  "command": "gcc  -I\"/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore\"   -Wall -fsanitize=address -g   -o CMakeFiles/BATHROOMSEMAPHORE.dir/main.c.o   -c \"/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/main.c\"",
+  "file": "/home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/main.c"
+}
+]
