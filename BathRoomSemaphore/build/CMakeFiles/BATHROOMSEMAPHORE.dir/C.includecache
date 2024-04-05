@@ -17,6 +17,8 @@ unistd.h
 -
 pthread.h
 -
+stdlib.h
+-
 bathroom.h
 /home/dmitru/Проекты VisualCode/BathRoom/BathRoomSemaphore/bathroom.h
 
